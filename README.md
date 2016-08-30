@@ -1,5 +1,5 @@
-# Android Extensão 2016-04
-Repositório para disponibilizar conteúdo e projetos desenvolvidos no curso de extensão de Android em abril/2016.
+# Android Extensão 2016-09
+Repositório para disponibilizar conteúdo e projetos desenvolvidos no curso de extensão de Android em setembro/2016.
 
 ## Programa do curso
 ### Introdução
@@ -18,7 +18,7 @@ Repositório para disponibilizar conteúdo e projetos desenvolvidos no curso de 
 ### Avançando em componentes e eventos
 - RadioButton, CheckButton, eventos
 - Spinner, valores estáticos, valores dinâmicos, eventos
-- RecyclerView, adapter simples, checkbox, radiobutton, eventos
+- ListView, adapter simples, checkbox, radiobutton, eventos
 - Menu de contexto, Toolbar
 - Popup Menu
 
@@ -29,10 +29,10 @@ Repositório para disponibilizar conteúdo e projetos desenvolvidos no curso de 
 - Adapter customizado
 
 ### Recursos avançados
-- Aplicação com banco de dados (db4Objects, SQLite)
+- Aplicação com banco de dados (db4Objects)
 - SharedPreferences
 - Consumindo APIs online (retrofit)
-- Support Design
+- Deploy e publicação na Google Play
 
 ### Referências
 - Android Developers http://developer.android.com/develop/index.html
