@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="deseja_limpar">Deseja limpar o número?</string>
+    <string name="nao">Não</string>
+    <string name="sim">Sim</string>
+</resources>

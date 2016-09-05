@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cidades</string>
+    <string name="regiao">Região</string>
+
+    <string name="norte">Norte</string>
+    <string name="nordeste">Nordeste</string>
+    <string name="centro_oeste">Centro Oeste</string>
+    <string name="sudeste">Sudeste</string>
+    <string name="sul">Sul</string>
+    <string name="estado">Estado</string>
+    <string name="cidade">Cidade</string>
+
+    <array name="regioes">
+        <item>@string/centro_oeste</item>
+        <item>@string/nordeste</item>
+        <item>@string/norte</item>
+        <item>@string/sudeste</item>
+        <item>@string/sul</item>
+    </array>
+
+</resources>

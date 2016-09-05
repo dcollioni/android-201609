@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Conta Bancaria</string>
+    <string name="nome">Nome</string>
+    <string name="pessoa_fisica">Pessoa Física</string>
+    <string name="pessoa_juridica">Pessoa Jurídica</string>
+    <string name="cpf">CPF</string>
+    <string name="cartao_de_credito">Cartão de Crédito</string>
+    <string name="seguro_do_cartao">Seguro do Cartão</string>
+    <string name="talao_de_cheques">Talão de Cheques</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="tipo">Tipo</string>
+</resources>
