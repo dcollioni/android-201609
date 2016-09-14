@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Menu Modal</string>
+    <string name="excluir">Excluir</string>
+    <string name="duplicar">Duplicar</string>
+</resources>

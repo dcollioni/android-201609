@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Produtos</string>
+    <string name="entrar">Entrar</string>
+
+    <string name="eletronicos">Eletrônicos</string>
+    <string name="escritorio">Escritório</string>
+    <string name="outros">Outros</string>
+
+    <string-array name="categorias">
+        <item>@string/eletronicos</item>
+        <item>@string/escritorio</item>
+        <item>@string/outros</item>
+    </string-array>
+
+</resources>

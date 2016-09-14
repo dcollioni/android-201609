@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Listas</string>
+
+    <string name="chrome">Chrome</string>
+    <string name="firefox">Firefox</string>
+    <string name="edge">Edge</string>
+    <string name="opera">Opera</string>
+    <string name="safari">Safari</string>
+    <string name="ie">Internet Explorer</string>
+
+    <string-array name="navegadores">
+        <item>@string/chrome</item>
+        <item>@string/firefox</item>
+        <item>@string/edge</item>
+        <item>@string/opera</item>
+        <item>@string/safari</item>
+        <item>@string/ie</item>
+        <item>@string/ie</item>
+        <item>@string/ie</item>
+        <item>@string/ie</item>
+        <item>@string/ie</item>
+        <item>@string/ie</item>
+        <item>@string/ie</item>
+        <item>@string/ie</item>
+        <item>@string/ie</item>
+        <item>@string/ie</item>
+    </string-array>
+</resources>

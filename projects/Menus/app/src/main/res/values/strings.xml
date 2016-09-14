@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="sobre">Sobre</string>
+    <string name="limpar">Limpar</string>
+    <string name="recarregar">Recarregar</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="excluir">Excluir</string>
+</resources>
