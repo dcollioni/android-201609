@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Meus Livros App</string>
+    <string name="titulo">Título</string>
+    <string name="autor">Autor</string>
+    <string name="numero_paginas">Nº páginas</string>
+
+    <string name="aventura">Aventura</string>
+    <string name="biografia">Biografia</string>
+    <string name="ficcao">Ficção</string>
+    <string name="infantil">Infantil</string>
+    <string name="romance">Romance</string>
+    <string name="salvar">Salvar</string>
+    <string name="novo_livro">Novo livro</string>
+    <string name="excluir_todos">Excluir todos</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="excluir_livros">Excluir livros</string>
+    <string name="confirma_exclusao">Confirma a exclusão desses livros?</string>
+    <string name="nao">Não</string>
+    <string name="sim">Sim</string>
+    <string name="confirma_exclusao_todos">Confirma a exclusão de todos os livros?</string>
+    <string name="filtrar_livros">Filtrar livros</string>
+
+    <string-array name="categorias">
+        <item>@string/aventura</item>
+        <item>@string/biografia</item>
+        <item>@string/ficcao</item>
+        <item>@string/infantil</item>
+        <item>@string/romance</item>
+    </string-array>
+</resources>
