@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="nome">Nome</string>
+    <string name="login">Login</string>
+
+    <string name="azul">Azul</string>
+    <string name="amarelo">Amarelo</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="logout">Logout</string>
+
+    <string-array name="cores">
+        <item>@string/azul</item>
+        <item>@string/amarelo</item>
+        <item>@string/vermelho</item>
+    </string-array>
+</resources>
