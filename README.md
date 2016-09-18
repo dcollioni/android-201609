@@ -38,3 +38,6 @@ Repositório para disponibilizar conteúdo e projetos desenvolvidos no curso de 
 - Android Developers http://developer.android.com/develop/index.html
 - Android for Beginner - Udacity https://classroom.udacity.com/courses/ud837
 - Material color palette - https://www.google.com/design/spec/style/color.html#color-color-palette
+- Retrofit - http://square.github.io/retrofit
+- DB4Objects - http://supportservices.actian.com/versant/default.html
+
